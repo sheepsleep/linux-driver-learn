@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/150/trunk/training/thread
+END
+debug.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/66/trunk/training/thread/debug.txt
+END
+cond.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/66/trunk/training/thread/cond.c
+END
+sem.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/66/trunk/training/thread/sem.c
+END
+thread_life
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/150/trunk/training/thread/thread_life
+END
+thread_life.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/150/trunk/training/thread/thread_life.c
+END
+thread_life_1.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/66/trunk/training/thread/thread_life_1.c
+END
+thread_life_2.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/66/trunk/training/thread/thread_life_2.c
+END
+tsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/66/trunk/training/thread/tsd.c
+END
+pthread_once.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/66/trunk/training/thread/pthread_once.c
+END
+signal.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/66/trunk/training/thread/signal.c
+END

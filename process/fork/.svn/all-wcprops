@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/150/trunk/training/process/fork
+END
+clone.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/51/trunk/training/process/fork/clone.c
+END
+fork.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/51/trunk/training/process/fork/fork.c
+END
+vfork.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/150/trunk/training/process/fork/vfork.c
+END
+clone_thread.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/150/trunk/training/process/fork/clone_thread.c
+END

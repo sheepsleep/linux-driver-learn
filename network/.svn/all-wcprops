@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/164/trunk/training/network
+END
+endian.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/164/trunk/training/network/endian.c
+END
+epoll.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/164/trunk/training/network/epoll.c
+END
